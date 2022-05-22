@@ -80,7 +80,7 @@ public class TestArea {
                     arraytype.write("Sorted Array");
                     arraytype.newLine();
                     break;
-                case 3:
+                default:
                     array = createReverselySortedArray(length);
                     arraytype.write("Reversely Sorted Array");
                     arraytype.newLine();
